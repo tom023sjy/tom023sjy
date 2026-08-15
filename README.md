@@ -1,3 +1,7 @@
+[严肃处理刘雨晨.jpeg](https://github.com/Project-LemonLime/Project_LemonLime/issues/312)
+
+---
+
 ![](https://cdn.luogu.com.cn/upload/image_hosting/swh2rx6j.png)
 
 
