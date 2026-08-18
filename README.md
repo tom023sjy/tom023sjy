@@ -4,7 +4,8 @@
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/swh2rx6j.png)
 
-
+**许队夺冠感言：**  
+![](https://cdn.luogu.com.cn/upload/image_hosting/len1f7et.png)
 # 洛谷神帖、陶片大赏（配原帖、关联帖链接）
 
 图片来源于一些用户的主页，废了196好多精力找原帖qwq（都在`lglg.top`搜的原帖）
