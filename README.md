@@ -2,6 +2,10 @@
 
 ---
 
+![做干净的奥赛](https://cdn.luogu.com.cn/upload/image_hosting/fuuxdvld.png)
+
+---
+
 ![](https://cdn.luogu.com.cn/upload/image_hosting/swh2rx6j.png)
 
 **许队夺冠感言：**  
