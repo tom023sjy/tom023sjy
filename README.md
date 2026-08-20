@@ -9,6 +9,8 @@
 ![](https://cdn.luogu.com.cn/upload/image_hosting/swh2rx6j.png)
 
 **许队夺冠感言：**  
+![](https://cdn.luogu.com.cn/upload/image_hosting/01ofc0bp.png)
+
 ![](https://cdn.luogu.com.cn/upload/image_hosting/len1f7et.png)
 
 ------
