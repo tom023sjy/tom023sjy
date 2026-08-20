@@ -115,10 +115,10 @@
 
 #### 2.1.3.3 其他地方发生的事
 
-[](https://cdn.luogu.com.cn/upload/image_hosting/b1dfmgnr.png)  
-[](https://cdn.luogu.com.cn/upload/image_hosting/avcqlh5h.png)  
-[](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEDF41o3jR27UD4K_oSMwJk5YNBu2OmPgACIRcAAoCv8FYNb8gzeRQBjzYE.png)  
-[](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEDGj9o3yVESmAKynZUwKeJRJ5e_GSiVQACkhcAAoCv-FZPf1iA0nITHDYE.png)
+[1](https://cdn.luogu.com.cn/upload/image_hosting/b1dfmgnr.png)
+[2](https://cdn.luogu.com.cn/upload/image_hosting/avcqlh5h.png)
+[3](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEDF41o3jR27UD4K_oSMwJk5YNBu2OmPgACIRcAAoCv8FYNb8gzeRQBjzYE.png)
+[4](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEDGj9o3yVESmAKynZUwKeJRJ5e_GSiVQACkhcAAoCv-FZPf1iA0nITHDYE.png)
 
 ### 2.1.4 礼貌的扶苏
 
