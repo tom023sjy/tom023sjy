@@ -1,60 +1,48 @@
-[严肃处理刘雨晨.jpeg](https://github.com/Project-LemonLime/Project_LemonLime/issues/312)
+# 1 头条
 
----
+[严肃处理刘雨晨](https://github.com/Project-LemonLime/Project_LemonLime/issues/312)  
+![做干净的奥赛](https://cdn.luogu.com.cn/upload/image_hosting/fuuxdvld.png)  
+![](https://cdn.luogu.com.cn/upload/image_hosting/swh2rx6j.png)  
+## 1.1 **许队夺冠感言：**  
+![](https://cdn.luogu.com.cn/upload/image_hosting/01ofc0bp.png)
 
-![做干净的奥赛](https://cdn.luogu.com.cn/upload/image_hosting/fuuxdvld.png)
-
----
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/swh2rx6j.png)
-
-**许队夺冠感言：**  
 ![](https://cdn.luogu.com.cn/upload/image_hosting/len1f7et.png)
 
-------
+# 2 洛谷神帖、陶片大赏（配原帖、关联帖链接）
 
-# 洛谷神帖、陶片大赏（配原帖、关联帖链接）
+图片来源于一些用户的主页，废了好多精力找原帖qwq（都在<lglg.top>搜的原帖）
 
-图片来源于一些用户的主页，废了196好多精力找原帖qwq（都在`lglg.top`搜的原帖）
+**提示：部分截图的原帖已经找不到了，现在lglg.top一直在502错误，暂时无法找原帖**
 
-**提示：部分截图的原帖已经找不到了，现在lglg.top一只在502错误，暂时无法找原帖**
+## 2.1 大管理们的语录
 
-## No.1（大管理们的语录）
-**魔怔、文明、礼貌的小粉兔：**
+### 2.1.1 魔怔、文明、礼貌的小粉兔
 
-##### (神帖里发生的事)
+#### 2.1.1.1 神帖里发生的事
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/uxqodz5n.png)
-[原帖](https://www.luogu.com.cn/discuss/368439)
+![](https://cdn.luogu.com.cn/upload/image_hosting/uxqodz5n.png)  
+[原帖](https://www.luogu.com.cn/discuss/368439)  
+![](https://cdn.luogu.com.cn/upload/image_hosting/d0p41fiq.png)  
+[原帖](https://www.luogu.com.cn/discuss/299289)  
+![](https://cdn.luogu.com.cn/upload/image_hosting/fn5tyf95.png)  
+![](https://cdn.luogu.com.cn/upload/image_hosting/umhd4x8g.png)  
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/d0p41fiq.png)
-[原帖](https://www.luogu.com.cn/discuss/299289)
+#### 2.1.1.2 群聊里发生的事
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/fn5tyf95.png)
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/umhd4x8g.png)
-
-##### （群聊里发生的事）
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/c6l4lb37.png)
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/e2z491co.png)
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/yp4pkdp4.png)
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/hubtwpkj.png)
-
+![](https://cdn.luogu.com.cn/upload/image_hosting/c6l4lb37.png)  
+![](https://cdn.luogu.com.cn/upload/image_hosting/e2z491co.png)  
+![](https://cdn.luogu.com.cn/upload/image_hosting/yp4pkdp4.png)  
+![](https://cdn.luogu.com.cn/upload/image_hosting/hubtwpkj.png)  
 ![](https://cdn.luogu.com.cn/upload/image_hosting/vriqe9ja.png)
 
-##### （其他地方发生的事）
+#### 2.1.1.3 其他地方发生的事
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/ut2pkw5t.png)
-
+![](https://cdn.luogu.com.cn/upload/image_hosting/ut2pkw5t.png)  
 ![](https://cdn.luogu.com.cn/upload/image_hosting/4mgz59lc.png)
 
-**文明、礼貌的chen_zhe：**
+### 2.1.2 文明、礼貌的chen_zhe
 
-##### (神帖里发生的事)
+#### 2.1.2.1 神帖里发生的事
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/tzx2cdx4.png)
 
@@ -79,15 +67,15 @@
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/87nblxx9.png)
 
-##### （群聊里发生的事）
+#### 2.1.2.2 群聊里发生的事
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/8epgx9x9.png)
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/8umueyal.png?x-oss-process=image/resize,m_lfit,h_200,w_225)
 
-**口吐芬芳的站长：**
+### 2.1.3 口吐芬芳的站长
 
-##### (神帖里发生的事)
+#### 2.1.3.1 神帖里发生的事
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/f2nqgcvj.png)
 [原帖](https://www.luogu.com.cn/discuss/164097)
@@ -115,7 +103,7 @@
 ![](https://i.ibb.co/bRXhr9M8/20260424133759-70-5.png)
 [原帖](https://www.luogu.com.cn/discuss/4777)
 
-##### （群聊里发生的事）
+#### 2.1.3.2 群聊里发生的事
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/3v0htofz.png)
 
@@ -125,15 +113,22 @@
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/hjbu0ish.png)
 
-**礼貌的扶苏：**
+#### 2.1.3.3 其他地方发生的事
 
-##### (神帖里发生的事)
+[1](https://cdn.luogu.com.cn/upload/image_hosting/b1dfmgnr.png)
+[2](https://cdn.luogu.com.cn/upload/image_hosting/avcqlh5h.png)
+[3](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEDF41o3jR27UD4K_oSMwJk5YNBu2OmPgACIRcAAoCv8FYNb8gzeRQBjzYE.png)
+[4](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEDGj9o3yVESmAKynZUwKeJRJ5e_GSiVQACkhcAAoCv-FZPf1iA0nITHDYE.png)
+
+### 2.1.4 礼貌的扶苏
+
+#### 2.1.4.1 神帖里发生的事
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/y65a3vfy.png)[原帖](https://www.luogu.com.cn/discuss/596477)
 
-**出言不逊的xht：**
+### 2.1.5 出言不逊的xht
 
-##### (神帖里发生的事)
+#### 2.1.5.1 神帖里发生的事
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/yq0h0svi.png)[原帖](https://www.luogu.com.cn/discuss/668203)
 
@@ -142,7 +137,7 @@
 ![](https://cdn.luogu.com.cn/upload/image_hosting/v1314goa.png)
 [原帖](https://www.luogu.com.cn/discuss/618301)
 
-##### （群聊里发生的事）
+#### 2.1.5.2 群聊里发生的事
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/o9ev9so7.png)
 
@@ -150,24 +145,24 @@
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/v2zqw8eo.png)
 
-##### (其它地方发生的事)
+#### 2.1.5.3 其它地方发生的事
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/5en2s1dv.png)
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/44o3l5u9.png)
 
-**邪恶毒瘤：**
+### 2.1.6 邪恶毒瘤
 
-##### (神帖里发生的事)
+#### 2.1.6.1 神帖里发生的事
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/1khl2e0l.png)
 
 ![](https://pic1.zhimg.com/80/v2-00aaaf6322f5d8c6a6975c4650f3c442_720w.jpg?source=1940ef5c)
 [原帖](https://www.luogu.com.cn/discuss/61884)
 
-**其他管理的魔怔出言：**
+### 2.1.7 其他管理的魔怔出言
 
-##### (神帖里发生的事)
+#### 2.1.7.1 神帖里发生的事
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/8xyqt08z.png)[原帖](https://www.luogu.com.cn/discuss/61884)
 
@@ -180,17 +175,17 @@
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/1ixo894r.png)
 
-##### (其它地方发生的事)
+#### 2.1.7.2 其它地方发生的事
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/9k58scx9.png)
 
-**某某伪洛谷群：**
+### 2.1.8 某某伪洛谷群
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/ux8m0dhf.png)
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/b695vcb1.png)
 
-## No.2（陶片一日游）
+## 2.2 陶片一日游
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/igd1pqtf.png)
 
@@ -204,100 +199,89 @@
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/fbfeipga.png)
 
-## No.3（没配截图的神贴）
+## 2.3 没配截图的神贴
 
-### [糯米团长的神帖集合](https://www.luogu.me/paste/gz49smu6)
+[糯米团长的神帖集合](https://www.luogu.me/paste/gz49smu6)
 
-### [洛谷第三次世界大战！！！（好多管理qwq）](https://www.luogu.com.cn/discuss/617084)
+[洛谷第三次世界大战！！！（好多管理qwq）](https://www.luogu.com.cn/discuss/617084)
 
-### [曾经洛谷二大帮派的战争](https://luogu.store/d/890933)
+[曾经洛谷二大帮派的战争](https://luogu.store/d/890933)
 （二大帮派是原神帮与反原神帮，本贴属无关人士举报反原神帮的帖子，被删了去保存站看）
 
-### [毒瘤自己骂自己](https://www.luogu.com.cn/discuss/64526)
+[毒瘤自己骂自己](https://www.luogu.com.cn/discuss/64526)
 
-### [毒瘤要别人女装](https://www.luogu.com.cn/discuss/233471)
+[毒瘤要别人女装](https://www.luogu.com.cn/discuss/233471)
 
-### [chen_zhe自称奶龙](https://www.luogu.com.cn/discuss/1082969)
+[chen_zhe自称奶龙](https://www.luogu.com.cn/discuss/1082969)
 
-### [举报小粉兔比赛作弊](https://www.luogu.com.cn/discuss/949767)
+[举报小粉兔比赛作弊](https://www.luogu.com.cn/discuss/949767)
 
-### [举报chen_zhe抄题解](https://www.luogu.com.cn/discuss/87274)
+[举报chen_zhe抄题解](https://www.luogu.com.cn/discuss/87274)
 
-### [蒟蒻们的爆照现场](https://www.luogu.com.cn/discuss/143682)
+[蒟蒻们的爆照现场](https://www.luogu.com.cn/discuss/143682)
 
-### [yyy爆照](https://www.luogu.com.cn/discuss/1414)
+[yyy爆照](https://www.luogu.com.cn/discuss/1414)
 
-### [kkk爆照（在评论里翻一翻就找到了）](https://www.luogu.com.cn/discuss/17954)
+[kkk爆照（在评论里翻一翻就找到了）](https://www.luogu.com.cn/discuss/17954)
 
-### [粉兔生快！！](https://www.luogu.com.cn/discuss/306280)
+[粉兔生快！！](https://www.luogu.com.cn/discuss/306280)
 
-### [全谷唯一一个装13的家伙（其他人都装蒻了）](https://www.luogu.com.cn/discuss/137272)
+[全谷唯一一个装13的家伙（其他人都装蒻了）](https://www.luogu.com.cn/discuss/137272)
 
-### [满级倡议书](https://www.luogu.com.cn/discuss/193502)
+[满级倡议书](https://www.luogu.com.cn/discuss/193502)
 
-##### [某人对此倡议书的反对](https://www.luogu.com.cn/discuss/193822)
+[某人对此倡议书的反对](https://www.luogu.com.cn/discuss/193822)
 
-### [天价网校（惊现UKE）](https://www.luogu.com.cn/discuss/48862)
+[天价网校（惊现UKE）](https://www.luogu.com.cn/discuss/48862)
 
-### [我想举报个人， 他发的网址真心恶心（惊现cz、UKE、⑨baka、FCBM71、小粉兔，请大家不要以任何方式找到那个网址）](https://www.luogu.com.cn/discuss/51809)
+[我想举报个人， 他发的网址真心恶心（惊现cz、UKE、⑨baka、FCBM71、小粉兔，请大家不要以任何方式找到那个网址）](https://www.luogu.com.cn/discuss/51809)
 
-### [抢楼下最疯狂的一次](https://www.luogu.com.cn/discuss/368621)
+[抢楼下最疯狂的一次](https://www.luogu.com.cn/discuss/368621)
 
-### [相当于kkk自己骂自己](https://www.luogu.com.cn/discuss/100)
+[相当于kkk自己骂自己](https://www.luogu.com.cn/discuss/100)
 
----
-## No.4
+# 3 洛谷高楼排行榜
 
-# 洛谷高楼排行榜：
-
-##### kkksc03曾经统计过，在[此贴](https://www.luogu.com.cn/discuss/259633)
+kkksc03曾经统计过，在[此贴](https://www.luogu.com.cn/discuss/259633)
 
 （只有回复量>=10000的可上榜）
 
-## [第一名：2018俄罗斯足球世界杯讨论专区](https://www.luogu.com.cn/discuss/show/45953)
+### [第一名：2018俄罗斯足球世界杯讨论专区](https://www.luogu.com.cn/discuss/show/45953)
 
-##### 目前已盖至`38369`楼（已停止建筑，无法继续盖楼）
+目前已盖至`38369`楼（已停止建筑，无法继续盖楼）
 
 **ID**：`4593`
 
 **小编备注：**
 UKE多次回复，他回复超10000啦！！！
 
----
+### [第二名：【奥运会讨论集中到本贴】2020 东京奥运会讨论专区](https://www.luogu.com.cn/discuss/show/190840)
 
-## [第二名：【奥运会讨论集中到本贴】2020 东京奥运会讨论专区](https://www.luogu.com.cn/discuss/show/190840)
-
-##### 目前已盖至`37754`楼（已停止建筑，无法继续盖楼）
+目前已盖至`37754`楼（已停止建筑，无法继续盖楼）
 
 **ID**：`190840`
 
----
+### [第三名：用户举报专区](https://www.luogu.com.cn/discuss/show/41033)
 
-## [第三名：用户举报专区](https://www.luogu.com.cn/discuss/show/41033)
-
-##### 截至2020年9月7日已盖至`32532`楼（已烂尾，无法观看与继续盖楼）
+截至2020年9月7日已盖至`32532`楼（已烂尾，无法观看与继续盖楼）
 
 **ID**：`41033`
 
 **小编备注：**
 暂无太多详细信息（帖子已删），如你知道一些，欢迎私信我。
 
----
+### [第四名：洛谷文文新闻](https://www.luogu.com.cn/discuss/52654)
 
-## [第四名：洛谷文文新闻](https://www.luogu.com.cn/discuss/52654)
-
-##### 目前已盖至`26657`楼（已停止建筑，无法继续盖楼）
+目前已盖至`26657`楼（已停止建筑，无法继续盖楼）
 
 **ID**：`52654`
 
 **小编备注：**
 太多刷屏的啦！！！特别是在2000页附近。
 
----
+### [第五名：说句闲话：研究珂学的最好方法是](https://www.luogu.com.cn/discuss/61884)
 
-## [第五名：说句闲话：研究珂学的最好方法是](https://www.luogu.com.cn/discuss/61884)
-
-##### 目前已盖至`21000`余楼（正在建造中，可继续盖楼）
+目前已盖至`21000`余楼（正在建造中，可继续盖楼）
 
 **ID**：`61884`
 
@@ -306,34 +290,22 @@ UKE多次回复，他回复超10000啦！！！
 
 现在还可以回复，也许以后会成为新的洛谷第一高楼！
 
----
+### [第六名：洛谷日报历年目录](https://www.luogu.com.cn/discuss/47327)
 
-## [第六名：洛谷日报历年目录](https://www.luogu.com.cn/discuss/47327)
-
-##### 目前已盖至`13000`余楼（正在建造中，可继续盖楼）
+目前已盖至`13000`余楼（正在建造中，可继续盖楼）
 
 **ID**：`47327`
 
 **小编备注：**
 居然还是洛谷本号发帖......
 
----
+### [第七名：犇犇茶馆的故事](https://www.luogu.com.cn/discuss/77964)
 
-## [第七名：犇犇茶馆的故事](https://www.luogu.com.cn/discuss/77964)
-
-##### 目前已盖至`11833`楼（已停止建筑，无法继续盖楼）
+目前已盖至`11833`楼（已停止建筑，无法继续盖楼）
 
 **ID**：`77964`
 
----
-
-
----
-## No.4（洛谷最【】管理员排行榜）
-
-
----
-## No.5（洛谷管理员真名）
+# 4 洛谷管理员真名
 
 |洛谷名|真名|性别|资料来源|
 |:---:|:---:|:---:|:---:|
@@ -379,31 +351,25 @@ UKE多次回复，他回复超10000啦！！！
 |[情到深处人孤独](https://www.luogu.com.cn/user/165)|陈泽胧|不详|[题解`5hr9w5th`](https://www.luogu.com.cn/article/5hr9w5th)|
 |[yyy2015c01](https://www.luogu.com.cn/user/5846)|叶耀阳|男|[帖子`1414`](https://www.luogu.com.cn/discuss/1414)、[帖子`17992`](https://www.luogu.com.cn/discuss/17992)、[OlerDb](https://oier.baoshuo.dev/)|
 
-## 还有投稿的喵？求投稿喵！（私信我）
+**还有投稿的喵？求投稿喵！（私信我）**
 
-# 致谢部分：
+# 5 致谢
 
-## 致谢以下神帖集合：
+## 5.1 致谢以下神帖集合
 
-### [洛谷神贴集合](https://www.luogu.me/article/h94h8hy5)、[考古诗](https://www.luogu.me/paste/gozs434b)、[那些年的神帖收录](https://www.luogu.me/article/kzs3is91)
+[洛谷神贴集合](https://www.luogu.me/article/h94h8hy5)、[考古诗](https://www.luogu.me/paste/gozs434b)、[那些年的神帖收录](https://www.luogu.me/article/kzs3is91)
 
-## 致谢以下用户的主页中的神帖截图：
+## 5.2 致谢以下用户的主页中的神帖截图
 
-### [qkj_qwq](https://www.luogu.com.cn/user/1800000)、[Easy_du](https://www.luogu.com.cn/user/1439700)
+[qkj_qwq](https://www.luogu.com.cn/user/1800000)、[Easy_du](https://www.luogu.com.cn/user/1439700)
 
-## 致谢这些网站给了我管理真名与收集管理真名的方式：
+## 5.3 致谢这些网站给了我管理真名与收集管理真名的方式
 
-### [Jason's blog](https://jason20110517.github.io/luogu_admins_real_names/) 、 [OIerDb](https://oier.baoshuo.dev/)
-
----
+[Jason's blog](https://jason20110517.github.io/luogu_admins_real_names/) 、 [OIerDb](https://oier.baoshuo.dev/)
 
 [??@](https://www.luogu.com.cn/app/info)
 
-------
------
------
-
-# 神 OIer
+# 6 神 OIer
 
 > 有的评测机活着，但他RE了
 > 
@@ -632,7 +598,7 @@ Farmer John的奶牛掉进垃圾陷阱，一颗颗导弹被系统拦截；
 
 ---
 
-### 各科老师被困在电梯里的反应
+**各科老师被困在电梯里的反应**
 
 语文老师正在写遗书。 
 
@@ -660,7 +626,7 @@ Farmer John的奶牛掉进垃圾陷阱，一颗颗导弹被系统拦截；
 
 ---
 
-### 各科老师回头后的反应
+**各科老师回头后的反应**
 
 语文老师一回头，`横眉冷对千夫指，俯首甘为孺子牛`。
 
@@ -1014,7 +980,8 @@ CE耻，犹未雪。
 最大流它何处是，费用流它使人愁。
 
 ---
-### 改编自《卖火柴的小女孩》
+
+改编自《卖火柴的小女孩》
 ```text
 天冷极了，下着雪，又快黑了。这是NOIP的前夜。在这又冷又黑的晚上，一个衣衫破烂的小女孩在机房敲着代码。
 她从班里逃出来的时候还拿着一本算导，但是有什么用呢？那是一本很破旧的书——那么大，一向是她妈妈垫桌角的。
@@ -1185,6 +1152,7 @@ OI中有很多乐趣 但最终会退役
 有些事 知道也无济于事 
 
 ---
+
 当你走进一中机房 
 
 背上所有的梦与想 
@@ -1345,8 +1313,8 @@ AC自动机
 
 ------
 
-# 由[SYK](https://www.luogu.com.cn/user/942153)收集的神秘肚子的文档
-## 中国收钱学会会歌 《彩票小径西》
+# 7.由[SYK](https://www.luogu.com.cn/user/942153)收集的神秘肚子的文档  
+## **中国收钱学会会歌 《彩票小径西》**  
 有个主席朋友 在学会主页  
 青春不变 名字叫老杜  
 做干净的彩票 口号喊得响  
@@ -1362,10 +1330,10 @@ AC自动机
 
 ------
 
-## 从机房园到集训队中
+## 7.1 **从机房园到集训队中**
  我家的后面有一个很大的机房。现在是早已并屋子一起卖给学校的教练了，连那最末次的相见也已经隔了几年，其中似乎确凿只有一些电脑和桌凳；但那时却是我的乐园。
 
-不必说绿色的 AC，红色的 WA，深色的 MLE TLE，黄色的 CE；也不必说 LCA 拎着俩节点在树上乱跑，验题人拿着鞭子追着出题人，一个 Au✌️突然疯疯癫癫地向外省跑去了。单是周围的一车算法书，就有无限趣味。
+不必说绿色的 AC，红色的 WA，深色的 MLE TLE，黄色的 CE；也不必说 LCA 拎着俩节点在树上乱跑，验题人拿着鞭子追着出题人，一个 Au 突然疯疯癫癫地向外省跑去了。单是周围的一车算法书，就有无限趣味。
 
 学长曾经讲给我一个故事听：先前，有一个 OIer 住在机房里加训，晚间，在看算法学习的时候，突然听到有人在叫他打游戏。答应着，四面看时，却见同学都在敲代码，向他一笑，关掉 dev-c++ 和 Edge 了。他很高兴地准备打游戏；但竟给那走来找他讲算法的学长识破了机关。说他同学有问题，一定遇见 faker 了；这是天天说 p 话和装不努力的同学，教你打游戏，倘一答应，晚些正赛的时候你就被他们拉的十万八千里远！他自然吓得要死，而那学长却道无妨，给他一个做题热度统计图，说只要挂主页，便可安心打游戏。他虽然照样办，却总是玩不进去，——当然玩不进去。到第二天，果然出猫腻了！翻开那主页，绿的蓝的紫的黑的；深的浅的不深不浅的，那同学们做了好多题！打开模拟赛成绩一看，rank1 还在哭嚎说自己打的依托，真乃过分！
 
@@ -1397,7 +1365,7 @@ AC自动机
 
 ------
 
-## 如何分辨狼与狗？
+## 7.2 **如何分辨狼与狗？**
 
 看习性，喜群居是狼，独自的是狗
 
@@ -1409,16 +1377,15 @@ AC自动机
 
 看诚信，说谎话是狼，讲实话是狗
 
+---
 
-
-我们的做干净的奥赛呢？
+## 7.3 **我们的做干净的奥赛呢？**
 
 全国青少年信息学奥林匹克竞赛（NOI）自 1984年创建以来，
 25年间从来没有放过一次水，主办者拍胸脯起誓：
 做干净的奥赛
 
-绝不放水
-
+### 绝不放水
 
 “你敢说，你们信息学奥赛一次都没放过水？一点猫儿腻的事都没干过？”
 
@@ -1449,7 +1416,7 @@ AC自动机
 中国科协青少部五学科奥赛项目主管官员蒙星曾经评价说，信息学奥赛是最规范，最让人放心的。
 
 
-宗旨不变
+### 宗旨不变
 
 
 NOI凭什么要做出一个干净的奥赛？
@@ -1477,7 +1444,7 @@ NOI凭什么要做出一个干净的奥赛？
 坚守往往是艰难的，但不能因为艰难而不坚守。为了坚守宗旨，NOI把活动始终规范在学校课外活动的范围内、规范在学有余力的孩子圈子里，没有让其泛滥到社会上演变成一场教育的灾难。
 
 
-依法治赛
+### 依法治赛
 
 
 当过农民、炼过钢、计算机专业毕业的肚子得，平时爱好读点文史哲方面的书。在他阅读的书目中，他尤为喜欢汉译世界学术名著丛书中的《联邦党人文集》，还有《美国宪法原理》，中国学者易中天以文学笔法撰写的《美国宪法的诞生和我们的反思》，翻来覆去读过数次。
@@ -1507,7 +1474,7 @@ NOI凭什么要做出一个干净的奥赛？
 实践证明，自从有了大法，NOI遇到各种情况均可以依据规章处理，且各方都很信服，从而保证了竞赛活动始终在健康的轨道上正常进行。因而有人评论说，“NOI规章已经超出了竞赛本身，它所具有的‘法的精神’具有普遍意义。”
 
 
-重在交流
+ ### 重在交流
 
 
 中国计算机学会从不在出征之前给中国队下达硬性的金牌指标，相反，会给选手们印名片，精心准备一些小礼物带上，“看谁交的朋友多”。
@@ -1523,6 +1490,8 @@ IOI2007参赛选手、广东中山纪念中学陈启峰同学在总结中写下�
 人们都说，未来需要的是十字型的人才。譬如比尔·盖茨不仅会编程序，也擅长交际、演说、管理。我的梦想告诉我，我不仅要对某方面有深入的研究，还须有广博的知识文化。我已经为高三一年制订了具体计划。我相信，剩下的一年将同样是为梦想拼搏的一年，更加精彩的一年。
 
 在人们眼里，这些十六七岁的中学生还是些孩子，可是经过大赛的他们，显然已经成长了，成熟了。
+
+---
 
 <details>
 <summary>正宗奥赛信奥牌</summary>
@@ -1700,13 +1669,14 @@ IOI2007参赛选手、广东中山纪念中学陈启峰同学在总结中写下�
 ⠀⠀⠀⠀⠈⢀⠐⢀⠠⠐⢀⠀⣳⡝⣮⢻⡜⣧⢯⡝⡾⣥⣳⣎⢷⡹⢮⣝⣧⣻⣼⣛⣮⢗⣯⢾⣱⠿⣼⣳⣞⡷⡽⣞⣧⣛⣶⣹⢎⣧⢯⡝⣮⢳⣭⣛⢶⣙⡞⣧⢫⣜⢧⣛⣭⢳⣝⡳⢮⡝⣞⢶⡹⣖⣭⢳⣏⡳⣝⢮⣳⢮⣝⡾⢮⣟⣮⣟⡷⣽⡞⣧⢿⣵⣻⢞⡷⣽⡞⣽⢾⣹⢯⡶⢯⢷⣛⢾⡳⣞⡟⣮⢟⣞⣳⢻⡭⢷⣫⠷⡞⢯⡗⢯⡻⢖⡻⡵⣛⠶⣭⠟⡾⡜⡯⣝⢮⡝⡳⢞⣧⠻⣅⠠⠐⣀⠠⢀⠂⠀</p>
 </details>
 
-## 关于 SYK 和此段落
+## 7.4 关于 SYK
+
 [**GitHub**](https://github.com/SuYoki-Ayas)  
-[**LuoGu**](https://www.luogu.com.cn/user/942153)
+[**Luogu**](https://www.luogu.com.cn/user/942153)
 
 **本段内容由 SYK 沿革，有关这段的问题请在[#4](https://github.com/tom023sjy/tom023sjy/issues/4)报告**  
 **感谢 Tom023 神犇的支持！**
 >绝不咕咕！  
 >——SuYoki-Ayas
 
----
+------
