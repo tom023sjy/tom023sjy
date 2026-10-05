@@ -1,6 +1,12 @@
 # 1 头条
 
 [严肃处理刘雨晨.jpeg](https://github.com/Project-LemonLime/Project_LemonLime/issues/312)  
+
+
+杂交水稻 is like
+
+<img width="208" height="162" alt="image" src="https://github.com/user-attachments/assets/b2fb4e58-5e52-481c-9887-82cd788ba304" />
+
 ![做干净的奥赛](https://cdn.luogu.com.cn/upload/image_hosting/fuuxdvld.png)  
 ![](https://cdn.luogu.com.cn/upload/image_hosting/swh2rx6j.png)  
 ## 1.1 **许队夺冠感言：**  
@@ -12,7 +18,7 @@
 
 图片来源于一些用户的主页，废了好多精力找原帖qwq（都在<lglg.top>搜的原帖）
 
-**提示：部分截图的原帖已经找不到了，现在lglg.top一直在502错误，暂时无法找原帖**
+*提示：部分截图的原帖已经找不到了，现在lglg.top一直在502错误，暂时无法找原帖*
 
 ## 2.1 大管理们的语录
 
