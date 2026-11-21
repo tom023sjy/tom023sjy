@@ -2,6 +2,7 @@
 
 [严肃处理刘雨晨.jpeg](https://github.com/Project-LemonLime/Project_LemonLime/issues/312)  
 
+![](https://codeforces.com/predownloaded/9d/df/9ddfddf7b6f3d974ef0c06b333aa92381614e440.png)
 
 杂交水稻 is like
 
